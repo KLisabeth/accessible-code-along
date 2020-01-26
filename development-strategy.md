@@ -2,7 +2,7 @@
 
 ## Wireframe
 
-> include a link to your wireframe, [wireframe.cc](https://wireframe.cc) is a good starting tool
+> [link](https://wireframe.cc/ld4v2u)
 
 ## Steps Plan
 
@@ -11,8 +11,8 @@
 | _Step Name_ | User Story | Changes in HTML | Changes in CSS |
 | --- | --- | --- | --- |
 | __Live Boilerplate__ | As an enthusiastic HYF student I can navigate to an empty website so that I know the project is set up correctly | An empty template project with `doctype`, language, charset, `head` & `body`, and hide/reveal script & styles | an empty main `style.css` and an existing evaluation style |
-|  | |  |  |
-| ... | ... | ... | ... |
+| __HTML-form__ | As an enthusiastic HYF student I can open the website so that i can see a search form | Create a form | none |
+| __font-style__ | As an enthusiastic HYF student I can see pretty search | none | create css |
 | (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
 
 
